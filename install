@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "Must be ran as root"
+
+mv netpwn.py netpwn
+chmod +x netpwn
+mv netpwn /usr/bin
+
+sudo apt-get install python-nmap
+sudo easy_install netifaces
+pip install faker
+pip install termcolors
+
+echo "Finished installing"
+echo "Thanks for installing netpwn"
+echo "Run netpwn by typing the command netpwn"
