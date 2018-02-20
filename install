@@ -9,6 +9,7 @@ sudo apt-get install python-nmap
 sudo easy_install netifaces
 pip install faker
 pip install termcolors
+pip install python-whois
 
 echo "Finished installing"
 echo "Thanks for installing netpwn"
