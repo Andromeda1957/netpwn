@@ -1,5 +1,5 @@
 # netpwn
-Tool made to automate tasks of pentesting.
+A framework made to automate tasks of pentesting.
 Written in python 2.7
 
 # Install
