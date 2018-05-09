@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "Must be ran as root"
 
-sudo apt-get install python-nmap
 sudo easy_install netifaces
 pip install faker
 pip install termcolors
