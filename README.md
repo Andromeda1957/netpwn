@@ -12,7 +12,7 @@ address_info - Gives you your ipv4, ipv6, and public Ip address based upon a int
 generate_shellcode - Gives you some basic shell code for example execute /bin/sh. <br /> 
 hex_converter - Paste some ascii to encode or hex to decode it knows which you want. <br />
 page_contents - Get the raw HTML of a given web page. <br />
-password_checker - Check the strength of a given password. | 
+password_checker - Check the strength of a given password. <br />
 fake_identity - Creates a fake name with SSN, address, credit card number, etc. <br />
 web_spider - Crawls a given URL for links. <br />
 ssl_cert - Gets the cert information of a given web site and its public key. <br />
