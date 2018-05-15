@@ -1,6 +1,6 @@
 # netpwn
 A framework made to automate tasks of pentesting.
-Written in python 2.7 <br /><br />
+Written in python 2.7 <br />
 
 __Modules__ <br />
 reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice. <br />
@@ -19,18 +19,18 @@ ssl_cert - Gets the cert information of a given web site and its public key. <br
 bash - Execute bash commands without exiting out of netpwn. <br />
 whois - Performs whois on a given URL.
 
-### Resources
+__Resources__ <br />
 cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
 useful_links - Links to blogs, youtube channels, and other resources that 
     offer good information about various topics that gives you the
     opportunity to learn more about the infosec field.
 
-### Usage
+__Usage__ <br />
 To run a specific module just type module name. <br />
 For example to run php_backdoor the command should look like this. <br />
 (netpwn) > php_backdoor
 
-### Features
+__Features__ <br />
 AutoComplete - Type a few letters of the command you want and hit tab to for auto completion. <br />
 clear - Type this to clear the screen. <br />
 banner - Type this command to display the banner. <br />
