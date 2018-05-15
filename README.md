@@ -20,10 +20,24 @@ bash - Execute bash commands without exiting out of netpwn. <br />
 whois - Performs whois on a given URL.
 
 # Resources
-cheat_sheet - pentest monkey reverse shell cheat sheet <br />
-useful_links - links to blogs, youtube channels, and other resources that 
+cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
+useful_links - Links to blogs, youtube channels, and other resources that 
     offer good information about various topics that gives you the
     opportunity to learn more about the infosec field.
+
+# Usage
+To run a specific module just type module name. <br />
+For example to run php_backdoor the command should look like this. <br />
+(netpwn) > php_backdoor
+
+# Features
+AutoComplete - Type a few letters of the command you want and hit tab to for auto completion. <br />
+clear - Type this to clear the screen. <br />
+banner - Type this command to display the banner. <br />
+help - Type this command to display help menu. <br />
+modules - Type this command to list available modules. <br />
+resources - Type this command to list available resources. <br />
+exit or CTRL^C - Exits netpwn
 
 [![netpwn](https://github.com/3XPL017/netpwn/blob/master/images/netpwn.png)
 [![modules](https://github.com/3XPL017/netpwn/blob/master/images/modules.png)
