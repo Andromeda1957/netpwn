@@ -3,17 +3,27 @@ A framework made to automate tasks of pentesting.
 Written in python 2.7
 
 # Modules
-Some modules include a fake identity generator, a web spider,
-a module that gets the ssl cert of any website, a module that
-allows you to execute bash commands without exiting out of
-netpwn, and more.
+reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice.
+send_file - Allows you to send a file to target server.
+php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands.
+hash_check - Paste a hash to see what type of hash it is.
+base64_converter - Paste base64 to decode or ascii to encode it knows which you want.
+address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface.
+generate_shellcode - Gives you some basic shell code for example execute /bin/sh.
+hex_converter - Paste some ascii to encode or hex to decode it knows which you want.
+page_contents - Get the raw HTML of a given web page.
+password_checker - Check the strength of a given password.
+fake_identity - Creates a fake name with SSN, address, credit card number, etc.
+web_spider - Crawls a given URL for links.
+ssl_cert - Gets the cert information of a given web site and its public key.
+bash - Execute bash commands without exiting out of netpwn.
+whois - Performs whois on a given URL.
 
 # Resources
-Currently there are only 2 resources the cheat sheet is the
-pentest monkey reverse shell cheat sheet and the useful links
-are links to blogs, youtube channels, and other resources that
-offer good information about various topics that gives you the
-opportunity to learn more about the infosec field.
+cheat_sheet - pentest monkey reverse shell cheat sheet
+useful_links - links to blogs, youtube channels, and other resources that 
+    offer good information about various topics that gives you the
+    opportunity to learn more about the infosec field.
 
 [![netpwn](https://github.com/3XPL017/netpwn/blob/master/images/netpwn.png)
 [![modules](https://github.com/3XPL017/netpwn/blob/master/images/modules.png)
