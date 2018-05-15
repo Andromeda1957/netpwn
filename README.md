@@ -4,23 +4,23 @@ Written in python 2.7
 
 # Modules
 reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice. <br />
-send_file - Allows you to send a file to target server. | 
-php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands. | 
-hash_check - Paste a hash to see what type of hash it is. | 
-base64_converter - Paste base64 to decode or ascii to encode it knows which you want. | 
-address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface. | 
-generate_shellcode - Gives you some basic shell code for example execute /bin/sh. | 
-hex_converter - Paste some ascii to encode or hex to decode it knows which you want. | 
-page_contents - Get the raw HTML of a given web page. | 
+send_file - Allows you to send a file to target server. <br />
+php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands. <br />
+hash_check - Paste a hash to see what type of hash it is. <br />
+base64_converter - Paste base64 to decode or ascii to encode it knows which you want. <br />
+address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface. <br />
+generate_shellcode - Gives you some basic shell code for example execute /bin/sh. <br /> 
+hex_converter - Paste some ascii to encode or hex to decode it knows which you want. <br />
+page_contents - Get the raw HTML of a given web page. <br />
 password_checker - Check the strength of a given password. | 
-fake_identity - Creates a fake name with SSN, address, credit card number, etc. | 
-web_spider - Crawls a given URL for links. | 
-ssl_cert - Gets the cert information of a given web site and its public key. | 
-bash - Execute bash commands without exiting out of netpwn. | 
+fake_identity - Creates a fake name with SSN, address, credit card number, etc. <br />
+web_spider - Crawls a given URL for links. <br />
+ssl_cert - Gets the cert information of a given web site and its public key. <br />
+bash - Execute bash commands without exiting out of netpwn. <br />
 whois - Performs whois on a given URL.
 
 # Resources
-cheat_sheet - pentest monkey reverse shell cheat sheet
+cheat_sheet - pentest monkey reverse shell cheat sheet <br />
 useful_links - links to blogs, youtube channels, and other resources that 
     offer good information about various topics that gives you the
     opportunity to learn more about the infosec field.
