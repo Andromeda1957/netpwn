@@ -2,7 +2,7 @@
 A framework made to automate tasks of pentesting.
 Written in python 2.7 <br /><br />
 
-### Modules
+__Modules__ <br />
 reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice. <br />
 send_file - Allows you to send a file to target server. <br />
 php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands. <br />
