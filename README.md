@@ -3,20 +3,20 @@ A framework made to automate tasks of pentesting.
 Written in python 2.7
 
 # Modules
-reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice.
-send_file - Allows you to send a file to target server.
-php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands.
-hash_check - Paste a hash to see what type of hash it is.
-base64_converter - Paste base64 to decode or ascii to encode it knows which you want.
-address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface.
-generate_shellcode - Gives you some basic shell code for example execute /bin/sh.
-hex_converter - Paste some ascii to encode or hex to decode it knows which you want.
-page_contents - Get the raw HTML of a given web page.
-password_checker - Check the strength of a given password.
-fake_identity - Creates a fake name with SSN, address, credit card number, etc.
-web_spider - Crawls a given URL for links.
-ssl_cert - Gets the cert information of a given web site and its public key.
-bash - Execute bash commands without exiting out of netpwn.
+reverse_shell - Creates a reverse shell with python to connect to a specific machine of your choice. | 
+send_file - Allows you to send a file to target server. | 
+php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to execute commands. | 
+hash_check - Paste a hash to see what type of hash it is. | 
+base64_converter - Paste base64 to decode or ascii to encode it knows which you want. | 
+address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface. | 
+generate_shellcode - Gives you some basic shell code for example execute /bin/sh. | 
+hex_converter - Paste some ascii to encode or hex to decode it knows which you want. | 
+page_contents - Get the raw HTML of a given web page. | 
+password_checker - Check the strength of a given password. | 
+fake_identity - Creates a fake name with SSN, address, credit card number, etc. | 
+web_spider - Crawls a given URL for links. | 
+ssl_cert - Gets the cert information of a given web site and its public key. | 
+bash - Execute bash commands without exiting out of netpwn. | 
 whois - Performs whois on a given URL.
 
 # Resources
