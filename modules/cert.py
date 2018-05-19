@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""ssl module"""
+"""ssl module."""
 
 import socket
 import ssl
@@ -8,7 +8,7 @@ from termcolor import colored
 
 
 def ssl_cert():
-    """Gets the ssl cert of a website"""
+    """Get the ssl cert of a website."""
     print colored('Enter a URL to get its SSL cert', 'green')
     target_url = raw_input(colored('(netpwn: ssl_cert) > ', 'red'))
 
