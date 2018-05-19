@@ -1,11 +1,11 @@
 #!/usr/bin/python
-"""hash check module"""
+"""hash check module."""
 
 from termcolor import colored
 
 
 def hash_check():
-    """Detects input hash type"""
+    """Detect input hash type."""
     print colored('Enter a hash to determine its type', 'green')
     input_hash = raw_input(colored('(netwn: hash_check) > ', 'red'))
 
