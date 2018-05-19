@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""password checking module"""
+"""password checking module."""
 
 import re
 
@@ -7,7 +7,7 @@ from termcolor import colored
 
 
 def password_checker():
-    """Checks password strength"""
+    """Check password strength."""
     print colored('Enter a password to check', 'green')
     password = raw_input(colored('(netpwn: password_checker) > ', 'red'))
     length = len(password)
@@ -31,7 +31,7 @@ def password_checker():
         print colored('Does contain special chararacters', 'green')
 
     def check_for_nums(password):
-        """Checks password for numbers"""
+        """Check password for numbers."""
         return any(i.isdigit() for i in password)
 
     if check_for_nums(password) is False:
