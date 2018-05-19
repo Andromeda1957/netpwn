@@ -2,6 +2,7 @@
 """Base64 module"""
 
 import base64
+
 from termcolor import colored
 
 
