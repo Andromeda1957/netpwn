@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""get page contents module"""
+"""get page contents module."""
 
 from urllib2 import urlopen
 
@@ -7,7 +7,7 @@ from termcolor import colored
 
 
 def page_contents():
-    """Shows contents of a web page"""
+    """Show contents of a web page."""
     try:
         print colored('Enter URL', 'green')
         target_url = raw_input(colored('(netpwn: page_contents) > ', 'red'))
