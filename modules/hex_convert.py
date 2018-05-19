@@ -1,11 +1,11 @@
 #!/usr/bin/python
-"""hex converter module"""
+"""hex converter module."""
 
 from termcolor import colored
 
 
 def hex_converter():
-    """Converts to and from hexadecimal"""
+    """Convert to and from hexadecimal."""
     print colored('This converts hex to ascii and ascii to hex')
     input_str = raw_input(colored('(netpwn: hex_converter) > ', 'red'))
     decoded = input_str
