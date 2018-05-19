@@ -12,7 +12,7 @@ from termcolor import colored
 
 
 def address_info():
-    """Gets networking information."""
+    """Get networking information."""
     print colored('Enter interface', 'green')
     interface = raw_input(colored('(netpwn: address_info) > ', 'red'))
 
