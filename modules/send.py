@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""send module"""
+"""send module."""
 
 import socket
 
@@ -7,7 +7,7 @@ from termcolor import colored
 
 
 def send_file():
-    """Sends file to remote location"""
+    """Send file to remote location."""
     try:
         print colored('Enter the IP to send file to', 'green')
         address = raw_input(colored('(netpwn: send_file) > ', 'red'))
