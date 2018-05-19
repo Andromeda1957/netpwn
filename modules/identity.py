@@ -2,7 +2,9 @@
 """fake identity module"""
 
 import random
+
 from faker import Faker
+
 from termcolor import colored
 
 
