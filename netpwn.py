@@ -7,10 +7,12 @@ import os
 import readline
 import sys
 
+from modules import *
+
+from resources import *
+
 from termcolor import colored
 
-from modules import *
-from resources import *
 
 OPTIONS_SL = [
     'reverse_shell',
