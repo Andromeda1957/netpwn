@@ -1,12 +1,12 @@
 #!/usr/bin/python
-"""whois module"""
+"""whois module."""
 
 from termcolor import colored
 from whois import whois
 
 
 def whois_lookup():
-    """Performs whois"""
+    """Perform whois."""
     try:
         print colored('Enter a URL to get whois data', 'green')
         domain = raw_input(colored('(netpwn: whois) > ', 'red'))
