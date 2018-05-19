@@ -8,6 +8,7 @@ import readline
 import sys
 
 from termcolor import colored
+
 from modules import *
 from resources import *
 
