@@ -1,11 +1,11 @@
 #!/usr/bin/python
-"""shellcode module"""
+"""shellcode module."""
 
 from termcolor import colored
 
 
 def generate_shellcode():
-    """Generates shellcode of linux"""
+    """Generate shellcode of linux."""
     print colored('Enter target operating system', 'green')
     platform = raw_input(colored('(netwn: generate_shellcode) > ', 'red'))
 
