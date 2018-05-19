@@ -1,8 +1,9 @@
 #!/usr/bin/python
 """spider module"""
 
-from urllib2 import urlopen
 import re
+from urllib2 import urlopen
+
 from termcolor import colored
 
 
