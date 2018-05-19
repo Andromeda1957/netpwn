@@ -2,6 +2,7 @@
 """whois module."""
 
 from termcolor import colored
+
 from whois import whois
 
 
