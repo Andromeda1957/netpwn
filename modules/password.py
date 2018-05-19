@@ -2,6 +2,7 @@
 """password checking module"""
 
 import re
+
 from termcolor import colored
 
 
