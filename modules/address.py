@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""address info module"""
+"""address info module."""
 
 import fcntl
 import socket
@@ -12,7 +12,7 @@ from termcolor import colored
 
 
 def address_info():
-    """Gets networking information"""
+    """Gets networking information."""
     print colored('Enter interface', 'green')
     interface = raw_input(colored('(netpwn: address_info) > ', 'red'))
 
