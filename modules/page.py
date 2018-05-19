@@ -2,6 +2,7 @@
 """get page contents module"""
 
 from urllib2 import urlopen
+
 from termcolor import colored
 
 
