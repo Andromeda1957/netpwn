@@ -17,7 +17,8 @@ fake_identity - Creates a fake name with SSN, address, credit card number, etc. 
 web_spider - Crawls a given URL for links. <br />
 ssl_cert - Gets the cert information of a given web site and its public key. <br />
 bash - Execute bash commands without exiting out of netpwn. <br />
-whois - Performs whois on a given URL.
+whois - Performs whois on a given URL. <br />
+crypto - Encrypts or decrypts a file with AES.
 
 __Resources__ <br />
 cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
