@@ -9,7 +9,6 @@ php_backdoor - Generates a simple backdoor in php upload to web server ?cmd= to 
 hash_check - Paste a hash to see what type of hash it is. <br />
 base64_converter - Paste base64 to decode or ascii to encode it knows which you want. <br />
 address_info - Gives you your ipv4, ipv6, and public Ip address based upon a interface. <br />
-generate_shellcode - Gives you some basic shell code for example execute /bin/sh. <br /> 
 hex_converter - Paste some ascii to encode or hex to decode it knows which you want. <br />
 page_contents - Get the raw HTML of a given web page. <br />
 password_checker - Check the strength of a given password. <br />
