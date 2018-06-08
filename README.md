@@ -17,7 +17,8 @@ web_spider - Crawls a given URL for links. <br />
 ssl_cert - Gets the cert information of a given web site and its public key. <br />
 bash - Execute bash commands without exiting out of netpwn. <br />
 whois - Performs whois on a given URL. <br />
-crypto - Encrypts or decrypts a file with AES.
+crypto - Encrypts or decrypts a file with AES. <br />
+no_endian - Removes endianness  on DWORDS
 
 __Resources__ <br />
 cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
