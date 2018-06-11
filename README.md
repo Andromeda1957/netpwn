@@ -18,7 +18,10 @@ ssl_cert - Gets the cert information of a given web site and its public key. <br
 bash - Execute bash commands without exiting out of netpwn. <br />
 whois - Performs whois on a given URL. <br />
 crypto - Encrypts or decrypts a file with AES. <br />
-no_endian - Removes endianness  on DWORDS
+no_endian - Removes endianness  on DWORDS. <br />
+rot13_converter - Encodes/decodes rot13. <br />
+url_converter - Url encoded and decodes string. <br />
+html_converter - Html enconded and decodes string.
 
 __Resources__ <br />
 cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
