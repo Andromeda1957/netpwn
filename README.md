@@ -25,7 +25,7 @@ html_converter - Html enconded and decodes string.
 
 __Resources__ <br />
 cheat_sheet - Pentest monkey reverse shell cheat sheet <br />
-opcodes - Prints out all x85 OpCodes. <br />
+opcodes - Prints out all x86 OpCodes. <br />
 useful_links - Links to blogs, youtube channels, and other resources that 
     offer good information about various topics that gives you the
     opportunity to learn more about the infosec field.
