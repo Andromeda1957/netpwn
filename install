@@ -3,7 +3,7 @@ echo "Must be ran as root"
 
 sudo easy_install netifaces
 pip install faker
-pip install termcolors
+pip install termcolor
 pip install python-whois
 
 echo "Finished installing"
