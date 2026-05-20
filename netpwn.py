@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """netpwn pentesting tool."""
-# Created by 3XPL017
-# Member of @togetherwehack
+# Created by Andromeda1957
+
 
 import os
 import readline
@@ -95,9 +95,9 @@ def banner():
     print colored(r'|___|  /\___  >__| |   __/ \/\_/|___|  /', 'blue')
     print colored(r'     \/     \/     |__|              \/ ', 'blue')
     print ' '
-    print colored(r'     | Created by 3XPL017         |', 'blue')
-    print colored(r'     | twitter: @3XPL017GH057     |', 'blue')
-    print colored(r'     | https://github.com/3XPL017 |', 'blue')
+    print colored(r'     | Created by Andromeda1957         |', 'blue')
+    print colored(r'     | twitter: Andromeda_Chess         |', 'blue')
+    print colored(r'     | https://github.com/Andromeda1957 |', 'blue')
     print '\n' * 11
 
 
